@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<h3><b>Câu 1</b></h3>
+ <head>
+  <style>.button {  background-color: Crimson;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;}.button1 {background-color: Crimson; border-radius: 2px;}.button2 {background-color: LightSalmon; border-radius: 4px;}.button3 {background-color: SeaGreen; border-radius: 8px;} .button4 {background-color: MidnightBlue; border-radius: 12px;} .button5 {background-color: Indigo; border-radius: 50%;}</style>
+  </head>
+  <link rel="stylesheet" href="style.css">
+<center>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy85Gq6T5XZ5MqySE_8bwtbMBrMVELotpHUNZ9p-TuRgWSP5sM-u3uxB5lyonTsQHv8bM&usqp=CAU" />
+  <h1> Công Ty Cổ Phần May<font color="#CC0000"> Việt Tiến </font> </h1>
+  <h3>Chuyên cung cấp các loại trang phục công sở Nam, Nữ</h3>     
+  <style> button {  background-color: Crimson;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;} </style>
+  <body>
+<div class="button-container">
+  <!-- Nút cho sản phẩm nam -->
+  <button class="button">SẢN PHẨM NAM &#128084</button>
+  <!-- Nút cho sản phẩm nữ -->
+  <button class="button">SẢN PHẨM NỮ 👗</button>
+</div>
+</body>
+</center>
+
+
+------
+    
+    
+<div>
+  <h3><b>Câu 2</b></h3>
+</div>
+<center>
+<h2>
+    Các tag phổ biến
+</h2>
+</center>
+<center>
+<div class="button-container1">
+  <button class="button4">html</button>
+  <button class="button4">css</button>
+  <button class="button4">java script</button>
+  <button class="button4">jquery</button>
+  <button class="button4">web design</button>
+</div>
+<div class="button-container1">
+  <button class="button4">django</button>
+  <button class="button4">python</button>
+  <button class="button4">machine learning</button>
+  <button class="button4">data science</button>
+</div>    
+</center>
+    
+    
+------- 
+<div>
+  <h3><b>Câu 3</b></h3>
+</div>
+<head>
+<h1>Hãy cùng khám pha những lợi ích sức khỏe tuyệt vời của trà gừng</h1>
+<img width="900" src="https://medlatec.vn/media/3646/content/20221114_tra-gung-2.jpg" />
+<h2>Uống trà gừng hằng ngày là cách tuyệt vời để bạn chăm sóc và bảo vệ sức khỏe khỏi các <br/>bệnh tật </h2>
+<p>Trà gừng cay và nóng. Vì vậy mà nó là loại thức uống trong những ngày lạnh thay cho cafe. Tuy nhiên, trà gừng còn hơn cả là một loại thức <br/>uống bình thường vì nó có rất nhiều tác dụng với sức khỏe. Hãy cùng khám phá những lợi ích sức khở tuyệt vời của trà gừng.
+</p>
+<ul>
+<ul>Đẩy lùi cảm giác buồn nôn.</ul>
+<ul>Hỗ trợ hệ thống tiêu hóa.</ul>
+<ul>Chiến đấu với tình trạng chuột rút.</ul>
+ <ul>Chữa trị bệnh cảm lạnh thông thường.</ul>
+ <ul>Điều trị chứng đau nữa đầu.</ul>
+ <ul>Chữa bệnh hôi miệng.</ul>
+ <ul>Giảm đau và chống viêm nhiễm.</ul>
+<div class="button-container">
+  <button class="button2">Đọc thêm... </button>
+</div>  
+  
+------- 
+<div>
+  <h3><b>Câu 4</b></h3>
+</div>
+<div class="invitation-container">
+<center> 
+  <img width= "50" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454734_960_720.png" />
+</center>
+ <center><div class="title"><h1>Gửi lời mời tham gia sự kiện</h1></div></center>
+  <center>  <div class="subtitle">Hãy nhập e-mail người mà bạn muốn gửi lời mời.</div></center>
+   <center> <input type="email" class="email-input" placeholder="Enter Email"></center>
+    <center> <button class="send-btn">GỬI LỜI MỜI!</button></center>
+    </div>
+  
+
+-----
+<div>
+  <h3><b>Câu 5</b></h3>
+</div>
+<div class="banner-container">
+    <div class="headline">CƠ HỘI CHỈ ĐẾN VỚI BẠN MỘT LẦN DUY NHẤT</div>
+    <div class="subtext">Bạn sẽ nhận được tất cả TỐT NHẤT nếu là thành viên của TRUNG NGUYÊN Coffee</div>
+    <button class="register-btn">ĐĂNG KÝ THAM GIA</button>
+  </div>
+
+
+-----
+<div>
+  <h3><b>Câu 6</b></h3>
+</div>
+<title>Font Awesome Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  <div class="info-container">
+    <div class="info white">
+      <i class="fa fa-graduation-cap" style="font-size:48px;color:cyan"></i>
+      <div class="number">20000</div>
+      <div class ="yellow">Sinh viên theo học</div>
+    </div>
+  <div class="info white">
+      <i class="fa fa-laptop" style="font-size:48px;color:pink"></i>
+      <div class="number">92%</div>
+      <div class ="yellow">Sinh viên làm đúng việc</div>
+    </div>
+    <div class="info white">
+      <i class="fa fa-lightbulb-o" style="font-size:48px;color:violet"></i>
+      <div class="number">586</div>
+      <div class ="yellow">Bài báo khoa học</div>
+    </div>
+    <div class="info white">
+      <i class="fa fa-globe" style="font-size:48px;color:blue"></i>
+      <div class="number">18</div>
+      <div class ="yellow">Giải thưởng quốc tế</div>
+    </div>
+  </div>
